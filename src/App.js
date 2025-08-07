@@ -150,7 +150,7 @@ export default function App() {
     { 
       img: "/imges/project2.png", 
       title: "WordPress Portfolio Website", 
-      tags: ["WordPress", "HTML", "CSS"], 
+      tags: ["WordPress","WP Bakery", "HTML", "CSS"], 
       live: "https://designwithtrinity.com/", 
       case: "#",
       description: "Premium shopping experience with custom WordPress theme and advanced features.",
@@ -168,7 +168,7 @@ export default function App() {
     { 
       img: "/imges/project4.PNG", 
       title: "WordPress Website", 
-      tags: ["WordPress", "Elemento", "Performance"], 
+      tags: ["WordPress", "Elementor", "Performance"], 
       live: "https://wpc.blinkshift.net/", 
       case: "#",
       description: "Complete store makeover with 40% conversion rate improvement.",
