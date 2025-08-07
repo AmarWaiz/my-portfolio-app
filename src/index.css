@@ -3550,9 +3550,10 @@ body {
 
 @media (max-width: 575px) {
   .hero-stats {
-    flex-direction: column;
-    gap: 1.5rem;
-    align-items: center;
+   align-items: center;
+        flex-direction: row;
+        gap: 2.5rem;
+        padding-bottom: 20px;
   }
   
   .avatar-container {
@@ -3595,6 +3596,10 @@ body {
     padding: 0.625rem 1.25rem;
     font-size: 0.875rem;
   }
+ .highlight-text{
+  font-size: 35px;
+ }
+
 }
 
 /* =================== SECTIONS RESPONSIVE =================== */
