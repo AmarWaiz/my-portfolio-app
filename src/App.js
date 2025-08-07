@@ -1026,23 +1026,23 @@ export default function App() {
                 <div className="footer-column">
                   <h4>Services</h4>
                   <span>
-                    <Code className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" />
+                    {/* <Code className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" /> */}
                     React Development
                   </span>
                   <span>
-                    <Smartphone className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" />
+                    {/* <Smartphone className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" /> */}
                     WordPress Design
                   </span>
                   <span>
-                    <ShoppingCart className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" />
+                    {/* <ShoppingCart className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" /> */}
                     Shopify Stores
                   </span>
                   <span>
-                    <Palette className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" />
+                    {/* <Palette className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" /> */}
                     UI/UX Design
                   </span>
                   <span>
-                    <Zap className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" />
+                    {/* <Zap className="w-3 h-3 sm:w-4 sm:h-4 inline mr-2" /> */}
                     Performance Optimization
                   </span>
                 </div>
@@ -1053,7 +1053,7 @@ export default function App() {
               <div className="footer-copyright">
                 <span>© {new Date().getFullYear()} Waiz Ali Khanzada</span>
                 <span className="separator">•</span>
-                <span>Built with React & Creative Magic ✨</span>
+                {/* <span>Built with React & Creative Magic ✨</span> */}
               </div>
               
               <div className="footer-status">
